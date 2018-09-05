@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/local/Cellar/boost/1.58.0/include/boost/format'
+let g:netrw_dirhist_2='/Users/Mio/boost_include'
+let g:netrw_dirhist_3='/Users/Mio/fuck'
+let g:netrw_dirhist_4='/Users/Mio/test/py_test'
+let g:netrw_dirhist_5='/Users/Mio/spf13-vim'
+let g:netrw_dirhist_6='/Users/Mio/Downloads/ZhengzhouDaily2015-12-28'
+let g:netrw_dirhist_7='/usr/local/Cellar/boost/1.58.0/include/boost/parameter'
+let g:netrw_dirhist_8='/Users/Mio/Library/Internet Plug-Ins/update'
