@@ -1,2 +1,2 @@
 # vimconf
-### Personal Vim Configuration
+### Vim Configuration
